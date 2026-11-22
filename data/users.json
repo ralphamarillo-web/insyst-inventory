@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Stephen Escasa",
+    "email": "admin@insyst.ph",
+    "role": "Administrator",
+    "salt": "d13c3c8965a7bb426c13fa70932df671",
+    "hash": "597fe862351db1b0b934b62121e98bc50de00266707a04fb39526ddb0da42b91a68b436704bca2eec08c782a692343a0fa546e64c616ccadb4911ad86ba032ec"
+  },
+  {
+    "id": 1795361016197,
+    "name": "Ralph Stephen",
+    "email": "ralph@gmail.com",
+    "role": "Staff",
+    "salt": "28f0859ae3b13482f9f74d9ea60f43f5",
+    "hash": "188dc9fdb424ea6e6c6827d6488f8fccec13f9f055bcf61f9102725b5fdc63f7fc42d5f562444fbd465ca39334eb012973a816ea5d1617427e44b3c944aa3bdf"
+  },
+  {
+    "id": 1795362178729,
+    "name": "Juan Dela Cruz",
+    "email": "juan@insyst.ph",
+    "role": "Staff",
+    "salt": "aa59183e2f4c555481ba53db075948df",
+    "hash": "9e2aa3d41ecf2c643c0bbe9f9c8e4acbff67f6789c94d9ad4d7bbb99f5f57cba6657064d2883c498ca2d3afac0ce5009b7bee6549c8045cddb1be1eb57f2e66e"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "P001",
+    "name": "A4 Bond Paper",
+    "category": "Paper",
+    "price": 3,
+    "qty": 132,
+    "archived": true
+  },
+  {
+    "id": "P002",
+    "name": "USB Flash Drive",
+    "category": "File handling",
+    "price": 1850,
+    "qty": 15,
+    "archived": true
+  },
+  {
+    "id": "P003",
+    "name": "DDR4 64 GB",
+    "category": "Hardware",
+    "price": 3000,
+    "qty": 4,
+    "archived": false
+  },
+  {
+    "id": "P004",
+    "name": "Desk",
+    "category": "Stationery",
+    "price": 13000,
+    "qty": 3,
+    "archived": false
+  },
+  {
+    "id": "P005",
+    "name": "Printer",
+    "category": "Printing",
+    "price": 29000,
+    "qty": 32,
+    "archived": false
+  },
+  {
+    "id": "P006",
+    "name": "Ballpen (box)",
+    "category": "Stationery",
+    "price": 180,
+    "qty": 7,
+    "archived": false
+  },
+  {
+    "id": "P007",
+    "name": "Stapler",
+    "category": "Stationery",
+    "price": 250,
+    "qty": 40,
+    "archived": false
+  },
+  {
+    "id": "P008",
+    "name": "Notebook",
+    "category": "Paper",
+    "price": 45,
+    "qty": 25,
+    "archived": false
+  },
+  {
+    "id": "P009",
+    "name": "Rapido",
+    "category": "ballpen",
+    "price": 250,
+    "qty": 30,
+    "archived": false
+  },
+  {
+    "id": "P010",
+    "name": "asd",
+    "category": "asd",
+    "price": 123,
+    "qty": 123,
+    "archived": false
+  },
+  {
+    "id": "P011",
+    "name": "qwe",
+    "category": "asdasd",
+    "price": 123,
+    "qty": 12,
+    "archived": false
+  },
+  {
+    "id": "P012",
+    "name": "asdasd",
+    "category": "qweqwr",
+    "price": 1233,
+    "qty": 21,
+    "archived": false
+  }
+]
