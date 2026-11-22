@@ -38,7 +38,7 @@ To stop the server, press Ctrl+C in the terminal.
 
 
 
-## Current limitations (prototype)
+## Current limitations 
 
 - Runs on localhost only.
 - Users, products, and activity are stored in JSON files in the `data` folder, not in a database.
